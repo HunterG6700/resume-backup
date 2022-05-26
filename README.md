@@ -1,4 +1,4 @@
-# resume development branch
+# VueJs resume
 
 
 ## Project setup
