@@ -1,4 +1,5 @@
-# resume
+# VueJs resume
+
 
 ## Project setup
 ```
